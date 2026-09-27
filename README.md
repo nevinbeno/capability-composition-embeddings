@@ -1,7 +1,8 @@
 # Design of a Vector Embedding for Capability Composition
 
 **PCCST503 - Assignment 2**  
-**Project:** Design of a Vector Embedding for Capability Composition
+**Project:** Design of a Vector Embedding for Capability Composition. 
+
 **Name:** NEVIN BENO
 **University Register Number:** TCR24CS052
 
